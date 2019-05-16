@@ -1,0 +1,27 @@
+        p {
+            color: brown;
+            font-weight: bold;
+            border-left: 7px solid beige;
+        }
+
+        .first {
+            color: brown;
+            font-weight: bold;
+            border-left: 7px solid beige;
+        }
+
+        li {
+            color: gold;
+            font-weight: 300;
+            text-decoration: underline;
+
+
+        }
+
+        body {
+            background-color: gray
+        }
+
+        div {
+            outline: 10px solid orange;
+        }
